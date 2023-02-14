@@ -16,9 +16,27 @@
             margin: 0px;
             padding: 0px;
             color: white;
-            background: url('/images/man_gym.jpg');
             font-family: 'Baloo Bhai 2', cursive;
+            background-color: black;
         }
+        
+        
+        header::before {
+            
+            /* background: url('https://source.unsplash.com/collection/190727/1600x900') no-repeat center center/cover; */
+            background: url('/images/man_gym.jpg');
+            content: "";
+            width: 100%;
+            height: 130vh;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            opacity: 0.7;
+
+        }
+
+        
 
         .left {
             /* border: 2px solid green; */
