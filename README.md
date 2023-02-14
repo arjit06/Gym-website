@@ -1,10 +1,10 @@
 # Gym-website
 url: http://127.0.0.1:5500/markups/home.html 
 
-![Screenshot (40)](https://user-images.githubusercontent.com/108218688/218307390-e6261f1c-4a42-4d62-a27f-162e460ea01a.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/108218688/218824641-dfd4758f-5534-478b-8295-66baf6774967.png)
 
-![Screenshot (41)](https://user-images.githubusercontent.com/108218688/218307398-7e4db13f-1aa2-4ca0-b5e5-0191ab7107b7.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/108218688/218824651-85a8455b-2643-42f0-97c7-629473cb2cd6.png)
 
-![Screenshot (48)](https://user-images.githubusercontent.com/108218688/218708517-d5349da8-8aa8-4eb5-943a-c4aa6ce1a39e.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/108218688/218824673-78470383-3330-41f8-a78c-3228e7b8fdee.png)
 
-![Screenshot (45)](https://user-images.githubusercontent.com/108218688/218307402-8b26552e-0a20-4f26-b556-4270fa3a9748.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/108218688/218824681-a1daf906-37d7-42d9-a771-d25fd2acfa88.png)
