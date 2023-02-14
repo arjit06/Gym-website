@@ -112,7 +112,7 @@
             border: 2px solid white;
             border-radius: 30px;
             display: block;
-            width: 480px;
+            width: 471px;
             height: 450px;
             position: absolute;
             top: 120px;
@@ -136,11 +136,16 @@
             font-family: 'Baloo Bhai 2', cursive;
             font-size: x-large;
         }
-        .form_group{
-            display: inline-block;
-            margin: 10px 20px;
-            width:208px;
-            margin-right: 5px;
+
+        .form_group {
+            display: flex;
+            /* margin: 10px 20px; */
+            width: 471px;
+            height:280px;
+            /* margin-right: 5px; */
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
         }
 
         .container button {
@@ -194,10 +199,12 @@
     <div class="container">
         <h1>ENTER YOUR DETAILS HERE</h1>
         <form action="noaction.php">
-                <div class="form_group"><input type="text" placeholder="WEIGHT"></div>
-                <div class="form_group"><input type="text" placeholder="HEIGHT"></div>
-                <div class="form_group"><input type="text" placeholder="AGE"></div>
-                <div class="form_group"><input type="text" placeholder="GENDER"></div>
+            <div class="form_group">
+                <div><input type="text" placeholder="WEIGHT"></div>
+                <div><input type="text" placeholder="HEIGHT"></div>
+                <div><input type="text" placeholder="AGE"></div>
+                <div><input type="text" placeholder="GENDER"></div>
+            </div>
         </form>
         <button>CALCULATE FITNESS (BMI)</button>
 
