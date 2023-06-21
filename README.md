@@ -1,5 +1,4 @@
 # Gym-website
-url: http://127.0.0.1:5500/markups/home.html 
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/108218688/218824641-dfd4758f-5534-478b-8295-66baf6774967.png)
 
